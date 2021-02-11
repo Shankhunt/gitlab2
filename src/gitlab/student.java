@@ -5,6 +5,8 @@ public class student {
 	   //To Auto-generated method stub
 		System.out.println("hello world");
 		
+		int x;
+		
 	}
 
 }
