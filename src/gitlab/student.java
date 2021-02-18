@@ -6,6 +6,7 @@ public class student {
 		System.out.println("hello world");
 		
 		int x;
+		int y;
 		
 	}
 
